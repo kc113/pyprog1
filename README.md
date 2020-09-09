@@ -1,1 +1,1 @@
-# pyprog1
+# Python programs for beginners
